@@ -12,6 +12,7 @@ f.close()
 
 install_requires = [
     'aiohttp',
+    'async-timeout',
     'elasticsearch>=6.0.0',
 ]
 
